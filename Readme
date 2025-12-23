@@ -1,6 +1,12 @@
+## Run
+```bash
 & D:/python/python.exe d:/UI_Demo/main.py
-Data + Finetune Gwen 2.5-3B:https://drive.google.com/drive/folders/1tJXCValAEbduJzkvwc6W-V8kv203L7Jc?usp=drive_link
-The fine_tune.ipynb is the source code to fine tune the model
-The data directory containing the Spider translated project dataset and the WikiSQL dataset
-The models folder contains all the fine-tuned models in the dataset from the data folder.
-To fine-tune the model, simply follow these steps in fine_tune.ipynb and select the model of your choice.
+```
+## Data + Finetune Gwen 2.5-3B:
+```bash
+https://drive.google.com/drive/folders/1tJXCValAEbduJzkvwc6W-V8kv203L7Jc?usp=drive_link
+```
+- **The fine_tune.ipynb is the source code to fine tune the model**
+- **The data directory containing the Spider translated project dataset and the WikiSQL dataset**
+- **The models folder contains all the fine-tuned models in the dataset from the data folder.**
+- **To fine-tune the model, simply follow these steps in fine_tune.ipynb and select the model of your choice.**
